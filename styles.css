@@ -46,6 +46,20 @@ div#video iframe {
   width: 350px; 
 }
 
+#pic{
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  width: 200px; 
+}
+
+#pic1{
+  position: absolute;
+  top: 350px;
+  left: 100px;
+  width: 200px; 
+}
+
 #people {
   position: absolute;
   bottom: 65px;
